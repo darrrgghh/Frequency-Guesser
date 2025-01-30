@@ -1,0 +1,12 @@
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+*.log
+*.tmp
