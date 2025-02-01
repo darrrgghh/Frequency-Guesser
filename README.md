@@ -23,7 +23,7 @@ python Frequency_Guesser.py
 ```
 
 ## Future plans:
-- Improve UI/UX
+- Improve UI/UX (if somebody could take this up, I'd buy you a beer)
 - Add sound visualization
 - Implement a leadeboard and, hopefully, multiplayer mode.
 ## Feel free to share *Your* ideas on what this game should look like!
